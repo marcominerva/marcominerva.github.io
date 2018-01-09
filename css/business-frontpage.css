@@ -36,3 +36,7 @@ a.no-underline:hover, a.no-underline:visited, a.no-underline:link, a.no-underlin
 .card-fa-top {
     margin-top: 5px;
 }
+
+.large-margin {
+    margin-right: 10px;
+}
