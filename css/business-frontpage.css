@@ -42,6 +42,5 @@ a.no-underline:hover, a.no-underline:visited, a.no-underline:link, a.no-underlin
 }
 
 .mvp-logo {
-    width: 300px;
-    text-align: center !important;
+    max-width: 300px;
 }
